@@ -126,9 +126,9 @@ flutter run
 
 ## 📄 Licencia y Propiedad Intelectual
 
-**Copyright © 2026 Aarón Gómez & Marcos García. Todos los derechos reservados.**
+**Copyright © 2026 Aarón Gómez & Marcos Padilla. Todos los derechos reservados.**
 
-Queda estrictamente prohibida la copia, reproducción, modificación, distribución o uso de este software, su código fuente, diseño o activos multimedia sin la autorización previa y expresa por escrito de los autores: **Aarón Gómez** y **Marcos García**.
+Queda estrictamente prohibida la copia, reproducción, modificación, distribución o uso de este software, su código fuente, diseño o activos multimedia sin la autorización previa y expresa por escrito de los autores: **Aarón Gómez** y **Marcos Padilla**.
 
 Este proyecto ha sido desarrollado con fines académicos y profesionales bajo un régimen de propiedad privada e integridad intelectual. Cualquier uso no autorizado constituye una infracción de los derechos de autor.
 
